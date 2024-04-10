@@ -95,3 +95,15 @@
     font-family: 'Poppins', sans-serif;
   }
 
+  @media screen and (max-width:700px){
+  
+  #input-4{
+    width: 100px;
+  }
+  .contact{
+    height: max-content;
+  }
+  .contact-container{
+    height: max-content;
+  }
+  }
